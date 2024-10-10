@@ -1,3 +1,27 @@
 h1 {
-    color: pink;
+    color: rgb(233, 162, 174);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-size: 12pt;
+    font-family: professionalfonts;
+    background-color: #f5ddec; 
+    color: #181717; 
+
+
+header {
+    background-color: #d5e2f0; 
+    text-align: left;
+}}
+
+
+nav a:hover {
+    background-color: #e1eb5a; 
 }
