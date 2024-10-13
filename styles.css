@@ -1,7 +1,9 @@
+/* All h1 are assign this color */
 h1 {
     color: #24a997;
 }
 
+/* To add colorful hover effccts on navigation items */
 nav a:hover {
     background-color: #e1eb5a; 
 }
